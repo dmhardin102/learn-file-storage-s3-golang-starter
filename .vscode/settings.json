@@ -1,0 +1,8 @@
+{
+  "go.useLanguageServer": true,
+  "go.toolsEnvVars": {
+    "GO111MODULE": "on"
+  },
+  "go.gopath": "",  // leave this blank unless you're using GOPATH projects
+  "go.inferGopath": false
+}
